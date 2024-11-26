@@ -15,7 +15,8 @@ Bienvenido a mi repositorio personal. Aquí encontrarás información sobre mí,
 ## Información Personal
 - **Nombre:** David Andrés Luna Tenecela  
 - **Ocupación:** Estudiante  
-- **Lugar de Residencia:** Guayaquil, Ecuador  
+- **Lugar de Residencia:** Guayaquil, Ecuador
+- **Correo:** daluna@espol.edu.ec
 
 ---
 
